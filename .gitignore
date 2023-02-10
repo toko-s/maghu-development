@@ -1,0 +1,57 @@
+node_modules
+node
+logs
+
+*.tmp
+
+procedures
+
+openapi.json-generate-client.sha256
+
+/PDF_FOLDER/*
+
+AN-NOTES.txt
+
+!**/src/main/**
+!**/src/test/**
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Other
+target/
+target-*/
+.flattened-pom.xml
+~$**
+hs_err_pid*
+.gwt
+.git
+*.class
+*.orig
+*.lock
+!yarn.lock
+!.mvn/wrapper/maven-wrapper.jar
+
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### VS Code ###
+.vscode/
