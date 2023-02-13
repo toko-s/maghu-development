@@ -1,7 +1,9 @@
-import acm.program.ConsoleProgram;
+import stanford.karel.SuperKarel;
 
-public class Main extends ConsoleProgram {
+public class Main extends SuperKarel {
 	public void run() {
-		println("asd");
+		move();
+		move();
+		move();
 	}
 }
