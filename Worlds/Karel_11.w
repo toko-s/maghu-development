@@ -1,4 +1,4 @@
-Dimension: (10, 10)
+Dimension: (11, 10)
 Wall: (4, 1) west
 Wall: (4, 2) west
 Wall: (4, 3) west

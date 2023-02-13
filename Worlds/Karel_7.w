@@ -1,4 +1,4 @@
-Dimension: (15, 18)
+Dimension: (15, 19)
 Beeper: (2, 1) 1
 Beeper: (8, 1) 1
 Beeper: (12, 4) 1
